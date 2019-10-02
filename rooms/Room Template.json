@@ -1,0 +1,13 @@
+{
+    "description":"A blue ball. A red ball.",
+    "nouns":[
+        {
+            "word":"red ball",
+            "verbs":["(throw at)( ).*"]
+        },
+        {
+            "word":"blue ball",
+            "verbs":["(eat)( ).*"]
+        }
+    ]
+}
